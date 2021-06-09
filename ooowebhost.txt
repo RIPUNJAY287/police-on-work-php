@@ -1,0 +1,4 @@
+$hostname="localhost";
+$dbusername="u669999615_vpstation";
+$dbpassword="asdfghjkl";
+$dbname="u669999615_vpstation";
